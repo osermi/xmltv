@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- EPG XMLTV FILE CREATED BY THE EASYEPG PROJECT - (c) 2019-2020 Jan-Luca Neumann -->
-<!-- created on Thu Jan 28 01:43:10 CET 2021 -->
+<!-- created on Thu Jan 28 02:54:34 CET 2021 -->
 <tv>
 
 <!-- CHANNEL LIST -->
@@ -2256,24 +2256,6 @@
   <category lang="cs">Adventure / Western / War</category>
   <rating>
     <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128002500 +0000" stop="20210128021600 +0000" channel="Nova Cinema HD">
-  <icon src="https://wp18-images-cz-dynamic.horizon.tv/EventImages/9409MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlX_M1knr3a_bc.jpg" />
-  <title lang="cs">Training Day</title>
-  <desc lang="cs">Jake Hoyt je spořádaný člověk. Aby naplnil svoje poslání, rozhodl se přidat k oddělení narkotik. Dalo mu to hodně práce a proto nechce promarnit výjimečnou příležitost. A tak se má o jeho budoucnosti rozhodnout při prvním dni v terénu. Detektiv Alonzo Harris je naopak zkušený veterán v boji proti narkotikům. Ale za třináct let tvrdé práce v těch nejhorších podmínkách změnil postoj k systému. Zjistil, že pokud bude dodržovat zákony, nic nezmůže proti zločincům, kteří je vesele porušují.</desc>
-  <credits>
-    <director>Antoine Fuqua</director>
-    <actor>Denzel Washington</actor>
-    <actor>Ethan Hawke</actor>
-    <actor>Scott Glenn</actor>
-    <actor>Tom Berenger</actor>
-    <actor>Harris Yulin</actor>
-  </credits>
-  <date>2001</date>
-  <category lang="cs">Thriller</category>
-  <rating>
-    <value>15</value>
   </rating>
 </programme>
 <programme start="20210128021600 +0000" stop="20210128041000 +0000" channel="Nova Cinema HD">
@@ -5851,33 +5833,6 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210128000500 +0000" stop="20210128004500 +0000" channel="Nova Action HD">
-  <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/73ae_V1__hrp.jpg" />
-  <poster src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/bbe626855c8a5a2418144410ea918f7c_de7449y_zbzdSmr_hrl.jpg" />
-  <title lang="cs">Zákon a pořádek: Útvar pro zvláštní oběti</title>
-  <desc lang="cs">Uprostřed Centrálního parku se na hlídkujícího policistu obrátí se žádostí o pomoc mladá, zmatená žena. Žena tvrdí, že ji pronásleduje nějaký muž, který ji dlouhou dobu věznil. Tým Bensonové záhy dojde k názoru, že dívka je Emma Lawrence, která se ve věku šesti let ztratila, když si v parku hrála se svým bratrem. Policisté přivezou Emmě její ztracené rodiče, ta je však zprvu nepoznává. Když jí matka začne ukazovat fotografie z dětství, začne si vzpomínatí. Emma je předána rodině a začíná vyšetřování skutečných událostí. Záhy však detektiv Tutuola narazí na záznamy z bezpečnostních kamer, na kterých je údajná Emma dobře vidět, jak přijíždí na místo metrem. Dívka tedy určitě neutekla na žádné křižovatce z dodávky, jak tvrdí.</desc>
-  <date>2017</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">18 . 4 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128004500 +0000" stop="20210128013000 +0000" channel="Nova Action HD">
-  <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/29f51_eoStDeq_fw4UnLd_hrp.jpg" />
-  <poster src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/08ea26_m1DwM4M_SQy4PaE_hrl.jpg" />
-  <title lang="cs">Beze stopy</title>
-  <sub-title lang="cs">Světelné roky</sub-title>
-  <desc lang="cs">Zmizí technik Teddy, který je přesvědčený, že ho pronásledují mimozemšťané, kteří mu dali implantát do hlavy. Tým FBI postupně zjišťuje, že za jeho bludy je trauma z dětství _ po smrti rodičů při autonehodě ho vychovával strýc s tetou a strýc ho sexuálně zneužíval; jeho bratranec Leo se ho rozhodl zachránit a postřelil svého otce tak, že skončil na vozíku. Jack s týmem najdou Teddyho na bývalé letecké základně, kde ho měli jako dítě unést ufoni, ale přitom tam ho právě strýc zneužíval.</desc>
-  <date>2004</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">2 . 2 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
 <programme start="20210128013000 +0000" stop="20210128031000 +0000" channel="Nova Action HD">
   <icon src="https://wp20-images-cz-dynamic.horizon.tv/EventImages/e66fLigue_1_ewz5045_QdMQOCQ_3lD6m3w_bc.jpg" />
   <poster src="https://wp21-images-cz-dynamic.horizon.tv/EventImages/7904Ligue_1_ewz5045_QdMQOCQ_nUXzzcm_hrl.jpg" />
@@ -8290,34 +8245,6 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127234500 +0000" stop="20210128003000 +0000" channel="Prima HD">
-  <icon src="https://wp26-images-cz-dynamic.horizon.tv/EventImages/c7ea8ff6dea5a6884789ae6022c72d2fc9cd_MRHNvY2_rdLGBiR_bc.jpg" />
-  <poster src="https://wp21-images-cz-dynamic.horizon.tv/EventImages/80fdo-NCIS-RENEWED-facebook_2yu40c6_hrl.jpg" />
-  <title lang="cs">Námořní vyšetřovací služba</title>
-  <sub-title lang="cs">Hlavní podezřelý</sub-title>
-  <desc lang="cs">Gibbse požádá o pomoc jeho přítel, holič Frankie. Má totiž strach, že sériový vrah, jehož portrét dala místní policie právě do televize, by mohl být jeho syn Cameron. Gibbs zjistí, že se sériový vrah zaměřuje na drogově závislé ženy. S řešením tohoto problému mu nakonec pomůže Abby a její známý, kterým se podaří odhalit, že vzorek krve nalezený na místě jednoho z činů neodpovídá Cameronovi. Tím však celý případ pro Gibbse nekončí, jeho lidé pomohou odhalit skutečného vraha.</desc>
-  <date>2012</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">9 . 16 . </episode-num>
-  <rating>
-    <value>15</value>
-  </rating>
-</programme>
-<programme start="20210128003000 +0000" stop="20210128012000 +0000" channel="Prima HD">
-  <icon src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/27f7a78b9472f9b24b4eb029a391edcb2e9d_IEUMqEZ_jYS1MxY_hrp.jpg" />
-  <poster src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/9881pol_rzW2RlR_6RXLuGC_hrl.jpg" />
-  <title lang="cs">Policie Hamburk</title>
-  <sub-title lang="cs">Tvrdí chlapi</sub-title>
-  <desc lang="cs">Policie vyšetřuje autonehodu, při které někdo přejel muže. Událost vidělo několik prostitutek, ale když je začne policie vyslýchat, najednou se objeví dva muži z motorkářského gangu Wheel Devils a žádná z prostitutek už nic neřekne...</desc>
-  <date>2013</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">7 . 8 . </episode-num>
-  <rating>
-    <value>15</value>
-  </rating>
-</programme>
 <programme start="20210128012000 +0000" stop="20210128021500 +0000" channel="Prima HD">
   <icon src="https://wp8-images-cz-dynamic.horizon.tv/EventImages/27f7a78b9472f9b24b4eb029a391edcb2e9d_IEUMqEZ_jYS1MxY_hrp.jpg" />
   <poster src="https://wp8-images-cz-dynamic.horizon.tv/EventImages/9881pol_rzW2RlR_6RXLuGC_hrl.jpg" />
@@ -10610,16 +10537,15 @@
     <value>15</value>
   </rating>
 </programme>
-<programme start="20210128001500 +0000" stop="20210128005500 +0000" channel="Nova HD">
-  <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/e9383c6ea65cfcdf4f629f78eac041c29cfb_aFpSFfk_kfs4bwc_bc.jpg" />
-  <poster src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/c9ebCASTLE_Y6_D618-F123_3975_5DSbgtv_aWqi5fM_hrl.jpg" />
-  <title lang="cs">Castle na zabití</title>
-  <sub-title lang="cs">Hříšníkova smrt</sub-title>
-  <desc lang="cs">Beau Randolph, autor lechtivých videí a zakladatel podniku "Holky z vejšky blázní", jinak velký milovník žen, přijíždí na večírek, zatímco před vchodem skandují jeho odpůrci. Zdá se, že není vůbec ve své kůži. Nechce pít a naznačí, že tohle je možná jeho poslední party. Pak někoho spatří v davu a odchází... O něco později je Castle odvolán k případu: Beau Randolph byl nalezen uškrcen na dámských toaletách. Jako vražedný nástroj posloužila podprsenka... Producent "Holek" Troy Strickland, kterého policie vyslýchá, naznačuje, že Beau dostával spoustu výhrůžek a měl mnoho nepřátel. Jeho bodyguard Scarlet Jonesová vypoví, že ten večer dostala příkaz zůstat v autě a svého klienta nesledovala. Dívka, která podle videozáznamu viděla, kam Beau odchází - Candice Mayfieldová - popírá, že by o tom cokoli věděla. Díky záznamu se ale brzy ukáže, že Scarlet lhala: nezůstala v autě, ale šla do Beauovy kanceláře, odkud z trezoru ukradla SD kartu. Tvrdí, že to dělala pro kamarádku, která se s Beauem...</desc>
+<programme start="20210203235000 +0000" stop="20210204004500 +0000" channel="Prima HD">
+  <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/c7ea8ff6dea5a6884789ae6022c72d2fc9cd_MRHNvY2_rdLGBiR_bc.jpg" />
+  <title lang="cs">Námořní vyšetřovací služba</title>
+  <sub-title lang="cs">Pomsta</sub-title>
+  <desc lang="cs">Tým speciálních agentů, vedený zkušeným, tvrdým vyšetřovatelem a vyjednavačem Markem Harmonem, je schopný řešit zločiny, které jsou spáchány ve vojenském námořnictví a námořní pěchotě, bez ohledu na postavení, či hodnost.</desc>
   <date>2012</date>
   <category lang="cs">Drama</category>
   <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">4 . 11 . </episode-num>
+  <episode-num system="xmltv_ns">9 . 21 . </episode-num>
   <rating>
     <value>15</value>
   </rating>
@@ -16748,58 +16674,6 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127235000 +0000" stop="20210128000500 +0000" channel="Nova 2 HD">
-  <icon src="https://wp8-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
-  <title lang="cs">Teorie velkého třesku</title>
-  <sub-title lang="cs">Hofstadterův izotop</sub-title>
-  <desc lang="cs">Do bytu nad Sheldonem a Leonardem se nastěhuje nová nájemnice - půvabná Alicia. Okamžitě se stává středem pozornosti všech kluků. Můžou se přetrhnout, aby se jí zalíbili. Penny to těžce nese. Rozhodne se tedy Alicii ukázat, kdo je v tomto úle královna roje. Dokonce dojde i na holčičí rvačku.</desc>
-  <date>2008</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Comedy</category>
-  <episode-num system="xmltv_ns">1 . 19 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128000500 +0000" stop="20210128002500 +0000" channel="Nova 2 HD">
-  <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
-  <title lang="cs">Teorie velkého třesku</title>
-  <sub-title lang="cs">Lasvegaský reset</sub-title>
-  <desc lang="cs">Leslie dá Howardowi kopačky a ten se psychicky zhroutí. Aby ho rozveselili, vezmou ho Leonard a Rajesh do Las Vegas. Sheldon se rozhodne vychutnat si úžasný večer plný samoty s výtečným indickým jídlem, které by si za normálních okolností nemohl dát kvůli Leonardově alergii laktózu, Howardově přecitlivělosti na buráky a v neposlední řadě kvůli odporu Rajeshe k indickým jídlům. Jenže co se nestane, zabouchne si klíče v bytě a je nucen strávit noc u Penny...</desc>
-  <date>2008</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Comedy</category>
-  <episode-num system="xmltv_ns">1 . 20 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128002500 +0000" stop="20210128004000 +0000" channel="Nova 2 HD">
-  <icon src="https://wp2-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
-  <title lang="cs">Teorie velkého třesku</title>
-  <sub-title lang="cs">Turbulence přísně tajných materiálů</sub-title>
-  <desc lang="cs">Howard má dobrou náladu, neboť na Mezinárodní vesmírné stanici budou používat Wolowitzův systém pro odvod lidského odpadního materiálu ve stavu beztíže. Dobrá nálada ho ale přejde, když zjistí, že udělal v konstrukci chybu. Howard se tak za pomoci svých kamarádů snaží přijít na to, jak záchod opravit s náhradními díly, které mají na té vesmírné stanici k dispozici. Stuart se chystá na druhé rande s Penny a zeptá se Leonarda na pár rad, které by mu mohly pomoct k tomu, aby tohle rande bylo úspěšnější než to minulé.</desc>
-  <date>2008</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Comedy</category>
-  <episode-num system="xmltv_ns">1 . 21 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128004000 +0000" stop="20210128010500 +0000" channel="Nova 2 HD">
-  <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
-  <title lang="cs">Teorie velkého třesku</title>
-  <sub-title lang="cs">Expedice na monopol</sub-title>
-  <desc lang="cs">Sheldon dostane nabídku odjet na tři měsíce za polární kruh probádat severní magnetický pól. Rozhodne se, že s sebou vezme jako podpůrný tým Leonarda, Howarda a Rajeshe. Trénují v mrazicím boxu ve Tvarohovém ráji. Vypadá to, že je Penny úplně fuk, že bude Leonard tak dlouho pryč. Skutečnost je ale jiná...</desc>
-  <date>2008</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Comedy</category>
-  <episode-num system="xmltv_ns">1 . 22 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
 <programme start="20210128010500 +0000" stop="20210128012500 +0000" channel="Nova 2 HD">
   <icon src="https://wp4-images-cz-dynamic.horizon.tv/EventImages/a802iM6RJFCt7OWew2N9b3muiQaX585_pmRoBxa_erWnVr1_bc.jpg" />
   <title lang="cs">Ženatý se závazky</title>
@@ -20381,40 +20255,28 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127234500 +0000" stop="20210128001000 +0000" channel="Nova Gold HD">
-  <icon src="https://wp13-images-cz-dynamic.horizon.tv/EventImages/b8b1bbimg_nEFP0tT_cv4l32h_bc.jpg" />
-  <poster src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/15a0bbimg_HvUwUrD_jL3xDSk_hrl.jpg" />
-  <title lang="cs">Riskuj!</title>
-  <desc lang="cs">Napínavá vědomostní soutěž o ceny. Uvádí Jan Rosák.</desc>
-  <date>2005</date>
-  <category lang="cs">Show</category>
-  <category lang="cs">Game show</category>
-  <episode-num system="xmltv_ns">0 . 957648 . </episode-num>
+<programme start="20210131193500 +0000" stop="20210131200000 +0000" channel="Nova 2 HD">
+  <icon src="https://wp19-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
+  <title lang="cs">Teorie velkého třesku</title>
+  <sub-title lang="cs">Einsteinova aproximace</sub-title>
+  <desc lang="cs">Sheldon se chová ještě podivněji, než je jeho zvykem. Řeší totiž obtížnou fyzikální otázku. Rozhodne se, že se pokusí rozlousknout problém stejným způsobem, jako to kdysi dělal Einstein.</desc>
+  <date>2009</date>
+  <category lang="cs">Drama</category>
+  <category lang="cs">Comedy</category>
+  <episode-num system="xmltv_ns">2 . 13 . </episode-num>
   <rating>
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210128001000 +0000" stop="20210128003500 +0000" channel="Nova Gold HD">
-  <icon src="https://wp28-images-cz-dynamic.horizon.tv/EventImages/b8b1bbimg_nEFP0tT_cv4l32h_bc.jpg" />
-  <poster src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/15a0bbimg_HvUwUrD_jL3xDSk_hrl.jpg" />
-  <title lang="cs">Riskuj!</title>
-  <desc lang="cs">Napínavá vědomostní soutěž o ceny. Uvádí Jan Rosák.</desc>
-  <date>2005</date>
-  <category lang="cs">Show</category>
-  <category lang="cs">Game show</category>
-  <episode-num system="xmltv_ns">0 . 957649 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210128003500 +0000" stop="20210128012000 +0000" channel="Nova Gold HD">
-  <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/fc2ebbimg_0WtwEFI_UXD65ma_bc.jpg" />
-  <poster src="https://wp23-images-cz-dynamic.horizon.tv/EventImages/6e4711053288_10152757666042791_4679522045903579383_o_SJKpyu7_sq8O4ug_hrl.jpg" />
-  <title lang="cs">Snídaně s Novou</title>
-  <desc lang="cs">Váš náskok po celý den.</desc>
-  <category lang="cs">Show</category>
-  <category lang="cs">Variety show</category>
-  <episode-num system="xmltv_ns">0 . 957650 . </episode-num>
+<programme start="20210131202000 +0000" stop="20210131205000 +0000" channel="Nova 2 HD">
+  <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/f364_V1__bc.jpg" />
+  <title lang="cs">Teorie velkého třesku</title>
+  <sub-title lang="cs">Kauza Excelsior</sub-title>
+  <desc lang="cs">Sheldon se obhajuje před soudem řešícím dopravní přestupky. Jel na červenou. Podle něj za porušení pravidel silničního provozu může Penny, kterou vezl na pohotovost.</desc>
+  <date>2009</date>
+  <category lang="cs">Drama</category>
+  <category lang="cs">Comedy</category>
+  <episode-num system="xmltv_ns">2 . 15 . </episode-num>
   <rating>
     <value>12</value>
   </rating>
@@ -23194,17 +23056,55 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127235500 +0000" stop="20210128011500 +0000" channel="JOJ Family HD">
-  <icon src="https://wp10-images-cz-dynamic.horizon.tv/EventImages/2d37bbimg_3Vj3VyL_Af3em5b_bc.jpg" />
-  <poster src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/d036bbfasdfasdfdfadf_Eoc3NrD_Aqx5Vjn_hrl.jpg" />
-  <title lang="cs">Bučkovi 2 - Slunce, seno, vesnice</title>
-  <desc lang="cs">Svérázná rodina Bučkových, známá ze show Farmář hledá ženu, dostala svůj vlastní pořad, který sleduje rodinné vztahy, každodenní problémy, radosti i strasti jejích členů. Co nového mají bratři Tomáš a Jan, máma Anka, otec Jano a svérázná babička? V reality show o rodině Bučkových se setkáme se dvěma hvězdami programu Farmář hledá ženu - bratry Tomášem a Janem. Hlavní roli však hraje hlava rodiny, šedá farmářská eminence máma Anka a představí se i ostatní členové - například svérázná babička, která dá všechny okamžitě do latě, nebo otec Jano Bučko, který farmaření nesnáší, o to víc však miluje jídlo.</desc>
-  <date>2013</date>
-  <category lang="cs">Show</category>
-  <category lang="cs">Variety show</category>
-  <episode-num system="xmltv_ns">0 . 954827 . </episode-num>
+<programme start="20210203075000 +0000" stop="20210203075500 +0000" channel="Nova Gold HD">
+  <icon src="https://wp3-images-cz-dynamic.horizon.tv/EventImages/198dimg_krrMwjG_vOV6bBN_bc.jpg" />
+  <title lang="cs">Oggy a Škodíci</title>
+  <desc lang="cs">Kocour Oggy má rád poklidné podřimování u televize. Tři zlomyslní švábi Joey, Marky a Deedee se však svým obtěžováním postarají o to, aby jeho poklidný život skončil.</desc>
+  <credits>
+    <director>Julien Thompson</director>
+    <director>Charles Vaucelle</director>
+    <director>Olivier Jean Marie</director>
+  </credits>
+  <date>2017</date>
+  <category lang="cs">Children's / Youth programs</category>
+  <category lang="cs">Entertainment programs for 6 to 14</category>
+  <episode-num system="xmltv_ns">6 . 0 . </episode-num>
   <rating>
-    <value>15</value>
+    <value>7</value>
+  </rating>
+</programme>
+<programme start="20210203075500 +0000" stop="20210203080500 +0000" channel="Nova Gold HD">
+  <icon src="https://wp4-images-cz-dynamic.horizon.tv/EventImages/198dimg_krrMwjG_vOV6bBN_bc.jpg" />
+  <title lang="cs">Oggy a Škodíci</title>
+  <desc lang="cs">Kocour Oggy má rád poklidné podřimování u televize. Tři zlomyslní švábi Joey, Marky a Deedee se však svým obtěžováním postarají o to, aby jeho poklidný život skončil.</desc>
+  <credits>
+    <director>Julien Thompson</director>
+    <director>Charles Vaucelle</director>
+    <director>Olivier Jean Marie</director>
+  </credits>
+  <date>2017</date>
+  <category lang="cs">Children's / Youth programs</category>
+  <category lang="cs">Entertainment programs for 6 to 14</category>
+  <episode-num system="xmltv_ns">6 . 68 . </episode-num>
+  <rating>
+    <value>7</value>
+  </rating>
+</programme>
+<programme start="20210203080500 +0000" stop="20210203081000 +0000" channel="Nova Gold HD">
+  <icon src="https://wp25-images-cz-dynamic.horizon.tv/EventImages/198dimg_krrMwjG_vOV6bBN_bc.jpg" />
+  <title lang="cs">Oggy a Škodíci</title>
+  <desc lang="cs">Kocour Oggy má rád poklidné podřimování u televize. Tři zlomyslní švábi Joey, Marky a Deedee se však svým obtěžováním postarají o to, aby jeho poklidný život skončil.</desc>
+  <credits>
+    <director>Julien Thompson</director>
+    <director>Charles Vaucelle</director>
+    <director>Olivier Jean Marie</director>
+  </credits>
+  <date>2017</date>
+  <category lang="cs">Children's / Youth programs</category>
+  <category lang="cs">Entertainment programs for 6 to 14</category>
+  <episode-num system="xmltv_ns">6 . 69 . </episode-num>
+  <rating>
+    <value>7</value>
   </rating>
 </programme>
 <programme start="20210128011500 +0000" stop="20210128014000 +0000" channel="JOJ Family HD">
