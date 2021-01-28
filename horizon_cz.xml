@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- EPG XMLTV FILE CREATED BY THE EASYEPG PROJECT - (c) 2019-2020 Jan-Luca Neumann -->
-<!-- created on Thu Jan 28 02:54:34 CET 2021 -->
+<!-- created on Thu Jan 28 03:05:11 CET 2021 -->
 <tv>
 
 <!-- CHANNEL LIST -->
@@ -10548,20 +10548,6 @@
   <episode-num system="xmltv_ns">9 . 21 . </episode-num>
   <rating>
     <value>15</value>
-  </rating>
-</programme>
-<programme start="20210128005500 +0000" stop="20210128013500 +0000" channel="Nova HD">
-  <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/3511_V1__RSh2sEB_YQWpUn7_hrp.jpg" />
-  <poster src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/9a993_H52LOaX_XWa3CAn_hrl.jpg" />
-  <title lang="cs">Smrtonosná zbraň</title>
-  <sub-title lang="cs">Hledání špíny</sub-title>
-  <desc lang="cs">Leo a Trish jsou svědky toho, jak jeden z jejich kolegů, který se právě chystá kandidovat na starostu, vyletí se svým autem do povětří. Sami se pustí do pátrání, ale brzy zkříží cestu Riggsovi s Murtaughem. Riggs vzpomíná na Mirandu. I když měla jeho naprostou důvěru, přesto před ní skrýval pravdu o svém otci. Miranda, aniž by mu to někdy řekla, si najala soukromého detektiva, aby se dozvěděla víc o minulosti Riggsovy rodiny. Stopa zavede detektivy k horkému kandidátovi na starostu O? Brienovi. Jedna z jeho asistentek, se kterou měl údajně poměr, beze stopy zmizela. Avery chce kandidovat na vyšší post a informuje Rodgera, že bude vybírat nového kapitána. A Murtaugh projeví zájem.</desc>
-  <date>2017</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Adventure / Western / War</category>
-  <episode-num system="xmltv_ns">1 . 11 . </episode-num>
-  <rating>
-    <value>12</value>
   </rating>
 </programme>
 <programme start="20210128013500 +0000" stop="20210128020500 +0000" channel="Nova HD">
