@@ -16,10 +16,10 @@ The description must be unique for each source, and is displayed on the UI.
 -->
         <mappings>
                 <channel name="horizon_sk.channels.xml">
-                        <url>https://raw.githubusercontent.com/osermi/xmltv/main/horizon_sk.channels.xml</url>
+                        <url>http://raw.githubusercontent.com/osermi/xmltv/main/horizon_sk.channels.xml</url>
                 </channel>
                 <channel name="horizon_cz.channels.xml">
-                        <url>https://raw.githubusercontent.com/osermi/xmltv/main/horizon_cz.channels.xml</url>
+                        <url>http://raw.githubusercontent.com/osermi/xmltv/main/horizon_cz.channels.xml</url>
                 </channel>
         </mappings>
 
@@ -27,14 +27,14 @@ The description must be unique for each source, and is displayed on the UI.
         <sourcecat sourcecatname="Horizon SK XMLTV">
                 <source type="gen_xmltv" nocheck="1" channels="horizon_sk.channels.xml">
                         <description>horizon sk</description>
-                        <url>https://raw.githubusercontent.com/osermi/xmltv/main/horizon_sk.xml</url>
+                        <url>http://raw.githubusercontent.com/osermi/xmltv/main/horizon_sk.xml</url>
                 </source>
         </sourcecat>
 
         <sourcecat sourcecatname="Horizon CZ XMLTV">
                 <source type="gen_xmltv" nocheck="1" channels="horizon_cz.channels.xml">
                         <description>horizon cz</description>
-                        <url>https://raw.githubusercontent.com/osermi/xmltv/main/horizon_cz.xml</url>
+                        <url>http://raw.githubusercontent.com/osermi/xmltv/main/horizon_cz.xml</url>
                 </source>
         </sourcecat>
 </sources>
