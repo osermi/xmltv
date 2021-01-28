@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- EPG XMLTV FILE CREATED BY THE EASYEPG PROJECT - (c) 2019-2020 Jan-Luca Neumann -->
-<!-- created on Thu Jan 28 01:04:43 CET 2021 -->
+<!-- created on Thu Jan 28 01:43:10 CET 2021 -->
 <tv>
 
 <!-- CHANNEL LIST -->
@@ -5851,19 +5851,6 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127232500 +0000" stop="20210128000500 +0000" channel="Nova Action HD">
-  <icon src="https://wp25-images-cz-dynamic.horizon.tv/EventImages/73ae_V1__bc.jpg" />
-  <poster src="https://wp22-images-cz-dynamic.horizon.tv/EventImages/35bd3b6579f55daa140af3fad37589d1_dsu4Aqt_vLmaNsj_hrl.jpg" />
-  <title lang="cs">Zákon a pořádek: Útvar pro zvláštní oběti</title>
-  <desc lang="cs">Rodiče patnáctileté Mandy Fowlerové přivolají policisty. Jejich dcera se ztratila a v jejím počítači našli nahrávku, na které je jejich dcera naprosto zděšená z fotky, která se šíří po sociálních sítích. Na fotce je Mandy v bezvědomí, polonahá a s tělem popsaným naprosto nechutnými sexuálními urážkami. Policisté pátrají ve škole, kam dívka chodí, a brzy zjistí, že Mandy byla na třídní party a právě zde došlo k jejímu zneužití. Nikdo ze spolužáků nechce mluvit, ale tým SVU se nakonec dostanoe ke jménu mladíka, který Mandy v tomto stavu vyfotil a fotku vložil na sociální sítě.</desc>
-  <date>2017</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">18 . 3 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
 <programme start="20210128000500 +0000" stop="20210128004500 +0000" channel="Nova Action HD">
   <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/73ae_V1__hrp.jpg" />
   <poster src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/bbe626855c8a5a2418144410ea918f7c_de7449y_zbzdSmr_hrl.jpg" />
@@ -10623,20 +10610,6 @@
     <value>15</value>
   </rating>
 </programme>
-<programme start="20210127232500 +0000" stop="20210128001500 +0000" channel="Nova HD">
-  <icon src="https://wp28-images-cz-dynamic.horizon.tv/EventImages/6ef2_V1__QHXCFHw_q9pR3jz_hrp.jpg" />
-  <poster src="https://wp28-images-cz-dynamic.horizon.tv/EventImages/517e08c33e865a9c9a6c99ba44db6681_y4uAVyU_hrl.jpg" />
-  <title lang="cs">Mentalista</title>
-  <sub-title lang="cs">Za rudou oponou</sub-title>
-  <desc lang="cs">Tým vyšetřuje smrt herečky Sharon Warwickové, která spadla z balkónu. Patrick postupně odhaluje zákulisní boje mezi jejími kolegy, blízký vztah mezi Deandrou a Sharon a také skutečnost, že žádný velký investor jménem Hannover neexistuje. Právě tento fakt vede k odhalení i samotného vraha. Patrick má ovšem také plnou hlavu Red Johna a především Jasona Lennona, který stále leží v nemocnici v kómatu a je jediným spojením s Red Johnem. Když však lékaři probudí Lennona z kómatu, agent Kirkland stihne Lennonovi podat smrtící injekci dřív, než na místo dorazí Patrick.</desc>
-  <date>2012</date>
-  <category lang="cs">Drama</category>
-  <category lang="cs">Detective</category>
-  <episode-num system="xmltv_ns">4 . 17 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
 <programme start="20210128001500 +0000" stop="20210128005500 +0000" channel="Nova HD">
   <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/e9383c6ea65cfcdf4f629f78eac041c29cfb_aFpSFfk_kfs4bwc_bc.jpg" />
   <poster src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/c9ebCASTLE_Y6_D618-F123_3975_5DSbgtv_aWqi5fM_hrl.jpg" />
@@ -12986,34 +12959,15 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127230500 +0000" stop="20210127234000 +0000" channel="Prima Comedy Central HD">
-  <icon src="https://wp20-images-cz-dynamic.horizon.tv/EventImages/7e361_e9IweVv_J3MCxBg_bc.jpg" />
-  <title lang="cs">Červený trpaslík</title>
-  <sub-title lang="cs">Nachystejte květináče</sub-title>
-  <desc lang="cs">Vesmír potřebuje svého hrdinu. Někoho, kdo by dokázal napravovat křivdy a ještě k tomu byl pohledný sympaťák. Je to k nevíře, ale tím hrdinou je náš starý dobrý Rimmer. Tedy, ne zrovna náš starý dobrý známý Arnie, ale jakési jeho druhé já, obecně známé pod přezdívkou Eso Rimmer. Chlapík, který si dokáže poradit v každé situaci, kterého má každý rád a jehož při každém setkání s ním mimovolně ohodnotí: To je frajer! Už jsme měli tu čest a budeme ji mít i dnes. Jenomže dnes navíc poznáme, že ani frajerové nejsou nezničitelní. Jejich základní povinností ovšem je, vycvičit si svého nástupce. A kdo že se to má stát nástupcem Esa Rimmera?</desc>
-  <date>1997</date>
+<programme start="20210203232000 +0000" stop="20210204001500 +0000" channel="Nova HD">
+  <icon src="https://wp5-images-cz-dynamic.horizon.tv/EventImages/6ef2_V1__QHXCFHw_q9pR3jz_bc.jpg" />
+  <title lang="cs">Mentalista</title>
+  <sub-title lang="cs">Oheň a síra</sub-title>
+  <desc lang="cs">Jane vláká do svého domu všech pět potenciálních Rudých Johnů, aby zjistil, který z nich má tetování na rameni. K jeho překvapení však tři z podezřelých mají na svém rameni tetování, symbol tří teček. Patrick chce všechny tři postavit ke zdi a klást jim otázky, které může odpovědět jen Rudý John. Ve chvíli, kdy chce svůj plán uskutečnit, v domě vybuchne nálož. Lisbonovou nechá Jane mimo hru, ta se však u domu objeví zrovna ve chvíli výbuchu.</desc>
+  <date>2013</date>
   <category lang="cs">Drama</category>
-  <category lang="cs">Adventure / Western / War</category>
-  <episode-num system="xmltv_ns">6 . 1 . </episode-num>
-  <rating>
-    <value>12</value>
-  </rating>
-</programme>
-<programme start="20210127234000 +0000" stop="20210128013500 +0000" channel="Prima Comedy Central HD">
-  <icon src="https://wp23-images-cz-dynamic.horizon.tv/EventImages/1488MV5BOTdhMTU4MzMtYTVjMi00MTYzLTkxZDYtOWUwYjI0NDFjZTY1XkEyXkFqcGdeQXVyM_JbpwVf6_hrp.jpg" />
-  <poster src="https://wp23-images-cz-dynamic.horizon.tv/EventImages/12de7bd1b183_4vg2GN2_hrl.jpg" />
-  <title lang="cs">Policajt v Beverly Hills III</title>
-  <desc lang="cs">Detektiv Axel Foley pátrá po vrahovi svého šéfa a vyšetřování ho opět zavede do Kalifornie, tentokrát do zábavního parku Wonder World mezi padělatele bankovek. Riskuje vlastní život, aby pachatele odhalil a dopadnul.</desc>
-  <credits>
-    <director>John Landis</director>
-    <actor>Eddie Murphy</actor>
-    <actor>Judge Reinhold</actor>
-    <actor>Bronson Pinchot</actor>
-    <actor>Hector Elizondo</actor>
-    <actor>Jon Tenney</actor>
-  </credits>
-  <date>1994</date>
-  <category lang="cs">Adventure / Western / War</category>
+  <category lang="cs">Detective</category>
+  <episode-num system="xmltv_ns">5 . 5 . </episode-num>
   <rating>
     <value>12</value>
   </rating>
@@ -16768,23 +16722,28 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127232500 +0000" stop="20210127235000 +0000" channel="Nova 2 HD">
-  <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/7a41_V1__bc.jpg" />
-  <title lang="cs">Dva a půl chlapa</title>
-  <sub-title lang="cs">Pomaluju, propíchnu nebo nastřelím</sub-title>
-  <desc lang="cs">Jake přijede na víkend se svou přítelkyní, šestatřicetiletou tatérkou Tammy. Přes původní odpor je Alanovi s Waldenem nakonec docela sympatická. Když začne Jake tvrdit, že se ožení, Tammy mu to rozmluví a získá si Alana ještě víc.</desc>
-  <credits>
-    <director>Chuck Lorre</director>
-    <director>Lee Aronsohn</director>
-    <actor>Jon Cryer</actor>
-    <actor>Ashton Kutcher</actor>
-    <actor>Angus T. Jones</actor>
-    <actor>Conchata Ferrell</actor>
-  </credits>
+<programme start="20210203123000 +0000" stop="20210203130000 +0000" channel="Prima Comedy Central HD">
+  <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/225aMV5BODIwNmMxMzEtNjIyZS00NmU4LWFmOTEtOWVmYzE0NmI4MjYxXkEyXkFqcGdeQXVyM_NMj2mA1_bc.jpg" />
+  <title lang="cs">Goldbergovi</title>
+  <sub-title lang="cs">The Goldbergs</sub-title>
+  <desc lang="cs">V 80. letech minulého století v malém domku v Pensylvánii žili byli Goldbergovi. Ne tak úplně normální rodinka.</desc>
+  <date>2016</date>
+  <category lang="cs">Drama</category>
+  <category lang="cs">Comedy</category>
+  <episode-num system="xmltv_ns">3 . 13 . </episode-num>
+  <rating>
+    <value>12</value>
+  </rating>
+</programme>
+<programme start="20210203130000 +0000" stop="20210203133000 +0000" channel="Prima Comedy Central HD">
+  <icon src="https://wp28-images-cz-dynamic.horizon.tv/EventImages/cb10_V1__bc.jpg" />
+  <title lang="cs">Jak jsem poznal vaši matku</title>
+  <sub-title lang="cs">Kapela nebo DJ?</sub-title>
+  <desc lang="cs">Ted se pořád nemůže smířit s tím, že se Barney a Robin zasnoubili. Upne se k tomu, že jim na svatbu zařídí DJ, jenže Lily a Robin chtějí kapelu.</desc>
   <date>2012</date>
   <category lang="cs">Drama</category>
   <category lang="cs">Comedy</category>
-  <episode-num system="xmltv_ns">9 . 14 . </episode-num>
+  <episode-num system="xmltv_ns">7 . 12 . </episode-num>
   <rating>
     <value>12</value>
   </rating>
@@ -20399,6 +20358,29 @@
     <value>12</value>
   </rating>
 </programme>
+<programme start="20210131185000 +0000" stop="20210131191500 +0000" channel="Nova 2 HD">
+  <icon src="https://wp20-images-cz-dynamic.horizon.tv/EventImages/7a41_V1__bc.jpg" />
+  <title lang="cs">Dva a půl chlapa</title>
+  <sub-title lang="cs">Baseball, kozy, kozy, baseball</sub-title>
+  <desc lang="cs">Walden se vrací do Nicoliny firmy, aby jí pomohl dotáhnout její nápad s přenosem myšlenek do počítače. Když se to podaří, ukáže se, že oba myslí jen na sex. Larry chce Alana seznámit se svou kolegyní z práce Gwen. Všichni včetně Lyndsey se ocitnou na swingers párty. Lyndsey zařídí, aby šel Larry s Gwen, ona s Jeffem a Alan zůstal sám.</desc>
+  <credits>
+    <director>Chuck Lorre</director>
+    <director>Lee Aronsohn</director>
+    <actor>Ashton Kutcher</actor>
+    <actor>Jon Cryer</actor>
+    <actor>Amber Tamblyn</actor>
+    <actor>Conchata Ferrell</actor>
+    <actor>Marin Hinkle</actor>
+    <actor>Holland Taylor</actor>
+  </credits>
+  <date>2013</date>
+  <category lang="cs">Drama</category>
+  <category lang="cs">Comedy</category>
+  <episode-num system="xmltv_ns">10 . 11 . </episode-num>
+  <rating>
+    <value>12</value>
+  </rating>
+</programme>
 <programme start="20210127234500 +0000" stop="20210128001000 +0000" channel="Nova Gold HD">
   <icon src="https://wp13-images-cz-dynamic.horizon.tv/EventImages/b8b1bbimg_nEFP0tT_cv4l32h_bc.jpg" />
   <poster src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/15a0bbimg_HvUwUrD_jL3xDSk_hrl.jpg" />
@@ -23212,19 +23194,6 @@
     <value>12</value>
   </rating>
 </programme>
-<programme start="20210127231000 +0000" stop="20210127235500 +0000" channel="JOJ Family HD">
-  <icon src="https://wp28-images-cz-dynamic.horizon.tv/EventImages/df242019-03-18_1446_mIBMKJa_aERHpua_bc.jpg" />
-  <poster src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/5d782019-03-18_1446_mIBMKJa_tK0I8kg_hrl.jpg" />
-  <title lang="cs">Na chalupě</title>
-  <desc lang="cs">Pořad, kterým nás provází chalupářka a moderátorka Kateřina Jesenská, nám ukáže, jak si poradit se vším, co k této zálibě patří. Od stavby krbu, boje s plísněmi ve stěnách až po stříhání stromků. V každé epizodě navštívíme i jednoho známého chalupáře z řad slovenských a českých celebrit, jež si své místo na bydlení uprostřed přírody nádherně zlepšují. S týmem odborníků divákům poradíme, jak vyřešit mnohé nástrahy, které k chalupám prostě patří. Na konci pořadu nechybí typický chalupářský recept ze sezónních potravin. Chceme vám ukázat, že mít chalupu není starost, ale v první řadě velká radost.</desc>
-  <date>2020</date>
-  <category lang="cs">Show</category>
-  <category lang="cs">Variety show</category>
-  <episode-num system="xmltv_ns">0 . 954826 . </episode-num>
-  <rating>
-    <value>15</value>
-  </rating>
-</programme>
 <programme start="20210127235500 +0000" stop="20210128011500 +0000" channel="JOJ Family HD">
   <icon src="https://wp10-images-cz-dynamic.horizon.tv/EventImages/2d37bbimg_3Vj3VyL_Af3em5b_bc.jpg" />
   <poster src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/d036bbfasdfasdfdfadf_Eoc3NrD_Aqx5Vjn_hrl.jpg" />
@@ -25620,6 +25589,18 @@
   <episode-num system="xmltv_ns">0 . 14 . </episode-num>
   <rating>
     <value>12</value>
+  </rating>
+</programme>
+<programme start="20210203231500 +0000" stop="20210204000000 +0000" channel="JOJ Family HD">
+  <icon src="https://wp2-images-cz-dynamic.horizon.tv/EventImages/df242019-03-18_1446_mIBMKJa_aERHpua_bc.jpg" />
+  <title lang="cs">Na chalupě</title>
+  <desc lang="cs">Pořad, kterým nás provází chalupářka a moderátorka Kateřina Jesenská, nám ukáže, jak si poradit se vším, co k této zálibě patří. Od stavby krbu, boje s plísněmi ve stěnách až po stříhání stromků. V každé epizodě navštívíme i jednoho známého chalupáře z řad slovenských a českých celebrit, jež si své místo na bydlení uprostřed přírody nádherně zlepšují. S týmem odborníků divákům poradíme, jak vyřešit mnohé nástrahy, které k chalupám prostě patří. Na konci pořadu nechybí typický chalupářský recept ze sezónních potravin. Chceme vám ukázat, že mít chalupu není starost, ale v první řadě velká radost.</desc>
+  <date>2020</date>
+  <category lang="cs">Show</category>
+  <category lang="cs">Variety show</category>
+  <episode-num system="xmltv_ns">0 . 162578 . </episode-num>
+  <rating>
+    <value>15</value>
   </rating>
 </programme>
 
